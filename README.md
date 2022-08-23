@@ -43,7 +43,8 @@ Gabinete
   Si se usa 220v directo
     - 1 transformador 220V a 12V
     - 1 ficha conector c14 (o conector hembra de alterna)
-    Rectificadora
+   
+   Rectificadora
     - 1 puente de diodos
     - 2 borneras de 2 pines
     - 1 capacitor de 4700uF
@@ -51,7 +52,8 @@ Gabinete
   
   Si se usa un cargador de notebook/transformador con salida dc
     - 1 conector jack dc
-    Reguladora
+   
+   Reguladora
       - 1 lm7812
       - 2 borneras de 2 pines
       - 2 capacitores de 10pF
