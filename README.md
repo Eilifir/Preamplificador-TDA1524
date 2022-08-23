@@ -41,20 +41,20 @@ Gabinete
   - 1 fusible de 2A/3A 250V
   
   Si se usa 220v directo
-    - 1 transformador 220V a 12V
-    - 1 ficha conector c14 (o conector hembra de alterna)
+   - 1 transformador 220V a 12V
+   - 1 ficha conector c14 (o conector hembra de alterna)
    
    Rectificadora
-    - 1 puente de diodos
-    - 2 borneras de 2 pines
-    - 1 capacitor de 4700uF
-    - 1 capacitor de 2200uF
+   - 1 puente de diodos
+   - 2 borneras de 2 pines
+   - 1 capacitor de 4700uF
+   - 1 capacitor de 2200uF
   
   Si se usa un cargador de notebook/transformador con salida dc
-    - 1 conector jack dc
+   - 1 conector jack dc
    
    Reguladora
-      - 1 lm7812
-      - 2 borneras de 2 pines
-      - 2 capacitores de 10pF
+   - 1 lm7812
+   - 2 borneras de 2 pines
+   - 2 capacitores de 10pF
     
