@@ -4,6 +4,7 @@ La segunda es con un cargador de computadora VGH o un transformador con salida d
 
 
 Lista de componenetes:
+
 Preamplificador
   - 1 circuito integrado TDA 1524
   - 1 placa de cobre 10cm x 5cm
@@ -20,6 +21,7 @@ Preamplificador
   - 5 molex de 2 pines
   - 1 bornera de 2 pines
   - 1 switch de 2 posiciones
+
 Potencia
   - 1 cicuito integrado TDA7297
   - 1 placa de 5cm x 5cm
@@ -33,6 +35,7 @@ Potencia
   - 1 led rojo
   - 4 molex de 2 pines
   - 1 bornera de 2 pines
+
 Gabinete
   - 1 conector RCA 
   - 1 conector de salida a parlante WP4 (tambien se le puede decir conector pisacable)
